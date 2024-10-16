@@ -1,4 +1,4 @@
-# 100daysofcode
+# 100DaysOfCode
 
 Hello, everyone! 👋
 
